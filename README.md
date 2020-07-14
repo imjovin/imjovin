@@ -1,5 +1,11 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on spring boot, angular, c#, microsoft azure.
+- 🌱 I’m currently learning Azure Cloud
+- 👯 I’m looking to collaborate on Web development, azure development
+- 💬 Ask me about yoga, software development, 
+- 📫 How to reach me: jovinjames33@gmail.com
+- 😄 Pronouns: JOWIN
+- ⚡ Fun fact: yet to figure out!
 <!--
 **imjovin/imjovin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
