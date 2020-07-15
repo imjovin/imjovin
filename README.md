@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on java spring boot, angular, c#, microsoft azure PaaS.
-- 🌱 I’m currently a Microsoft certified Azure Developer.
+- 🌱 I’m a Microsoft certified Azure Developer.
 - 🌱 I’m currently learning to become Microsoft Certified Azure Cloud Solutions Architect,
 - 👯 I’m looking to collaborate on Web development, azure consulting. 
 - 💬 Ask me about yoga, software development,bike rides. 
