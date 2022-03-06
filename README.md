@@ -1,7 +1,7 @@
 ### Hi there 👋
-- 🔭 I’m currently working on java spring boot, angular, c#, microsoft azure PaaS.
-- 🌱 I’m currently learning to become Microsoft Certified Azure Cloud Solutions Architect,
-- 👯 I’m looking to collaborate on Web development, azure consulting. 
+- 🔭 I’m currently working on java spring boot, angular, c#, microsoft azure.
+- 🌱 I’m a Microsoft Certified Azure Cloud Solutions Architect,
+- 👯 I’m looking to collaborate on DevOps, Cloud computing, Programming. 
 - 💬 Ask me about yoga, software development,bike rides. 
 - 📫 How to reach me: jovinjames33@gmail.com
 - 😄 Pronouns: JOWIN
